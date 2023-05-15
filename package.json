@@ -1,0 +1,19 @@
+{
+  "name": "open-ai-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillemrima/open-ai-api.git"
+  },
+  "author": "guillemrima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillemrima/open-ai-api/issues"
+  },
+  "homepage": "https://github.com/guillemrima/open-ai-api#readme"
+}
